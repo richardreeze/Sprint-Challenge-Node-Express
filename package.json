@@ -2,13 +2,14 @@
   "name": "sprint-challenge-node-express",
   "version": "1.0.0",
   "description": "A challenge to asses Node and Express knowledge",
-  "main": "app.js",
+  "main": "src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ivan Mora",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "nodemon": "^1.17.1"
   }
 }
